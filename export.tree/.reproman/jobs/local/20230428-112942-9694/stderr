@@ -1,0 +1,6 @@
+WARNING (04/28/23 11:33:18): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5430919.hostlist.B4TKIQxQ to get hosts
+starting job on c210-035
+slurmstepd: error: *** JOB 5430919 ON c210-035 CANCELLED AT 2023-04-28T12:54:03 ***
+Killed by signal 15.
+Terminated
